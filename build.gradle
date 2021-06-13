@@ -17,7 +17,6 @@ buildscript {
 
 allprojects {
     repositories {
-        maven { url 'https://nexus-new.tcsbank.ru/repository/mvn-proxy-qameta/' }
         google()
         mavenCentral()
         jcenter() // Warning: this repository is going to shut down soon

@@ -45,10 +45,10 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     androidTestImplementation "androidx.test.espresso:espresso-contrib:3.3.0"
     androidTestImplementation "androidx.test.espresso:espresso-intents:3.3.0"
-    androidTestImplementation "io.qameta.allure:allure-kotlin-model:2.2.2"
-    androidTestImplementation "io.qameta.allure:allure-kotlin-commons:2.2.2"
-    androidTestImplementation "io.qameta.allure:allure-kotlin-junit4:2.2.2"
-    androidTestImplementation "io.qameta.allure:allure-kotlin-android:2.2.2"
+    androidTestImplementation "io.qameta.allure:allure-kotlin-model:2.2.0"
+    androidTestImplementation "io.qameta.allure:allure-kotlin-commons:2.2.0"
+    androidTestImplementation "io.qameta.allure:allure-kotlin-junit4:2.2.0"
+    androidTestImplementation "io.qameta.allure:allure-kotlin-android:2.2.0"
     androidTestImplementation "androidx.test.uiautomator:uiautomator:2.2.0"
     androidTestImplementation "com.schibsted.spain:barista:3.9.0"
 }
